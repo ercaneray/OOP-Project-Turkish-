@@ -1,7 +1,6 @@
 /*
 Eray
 Ercan
-190757031
 Ataturk Universitesi, Muhendislik Fakultesi, Bilgisayar Muhendisligi Bolumu
 PROGRAMLAMA PROJESI 1
 MBM 104: Nesneye Yonelik Programlama - Bahar 2023
